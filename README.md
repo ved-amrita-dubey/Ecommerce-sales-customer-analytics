@@ -1,4 +1,4 @@
-# powerbi-ecomm-dashboard
+# Enterprise-Grade E-Commerce Sales, Profitability & Customer Intelligence Analytics Platform
 A high-performance interactive business intelligence application engineered to evaluate sales growth, profitability dynamics, customer purchasing behavior, regional market performance, and operational efficiency across a large-scale e-commerce transactional ecosystem.
 ## Dashboard Preview
 
