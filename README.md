@@ -8,6 +8,13 @@ A high-performance interactive business intelligence application engineered to e
 
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 ⚙️ Technology Stack
 
 | Layer | Technologies 
