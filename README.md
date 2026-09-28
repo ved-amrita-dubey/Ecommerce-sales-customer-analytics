@@ -7,10 +7,11 @@ A high-performance interactive business intelligence application engineered to e
 
 ⚙️ Technology Stack
 
-Layer	Technologies
-Data Source	Microsoft Excel
-Data Transformation	Power Query (M Language)
-Data Modeling	Relational Modeling
-Analytics Engine	DAX Measures
-Visualization	Microsoft Power BI
-Business Coverage	Sales, Customers, Profitability, Regional Analytics
+| Layer | Technologies 
+|---|---
+| Data Source | Microsoft Excel
+| Data Transformation | Power Query (M Language)
+| Data Modeling | Relational Modeling
+| Analytics Engine | DAX Measures
+| Visualization| Microsoft Power Bi
+| Business Coverage| Sales, Customers, Profitability, Regional Analytics
