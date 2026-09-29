@@ -32,23 +32,21 @@ A high-performance interactive business intelligence application engineered to e
 📂 1. Repository Architecture & File Structure
 
 
-##Project-2-E-Commerce Sales and Profit Analysis
-
+Project-2-E-Commerce-Sales-and-Profit-Analysis/
 │
 ├── data/
-│   └── ECOMM DATA.xlsx                        
-
-├── reports/
-│   └── E-Commerce Sales and Profit Analysis.pbix   
-
-├── exports/
-│   └── Screenshot_page-0001.jpg             
-
-├── README.md                                 
-
+│   └── ECOMM DATA.xlsx
 │
-└── docs/
-    └── business_requirements.md             
+├── reports/
+│   └── E-Commerce Sales and Profit Analysis.pbix
+│
+├── exports/
+│   └── Screenshot_page-0001.jpg
+│
+├── docs/
+│   └── business_requirements.md
+│
+└── README.md         
 
 
 
