@@ -29,9 +29,10 @@ A high-performance interactive business intelligence application engineered to e
 
 
 
-📂 1. Repository Architecture & File Structure
 
+## 📁 1. Repository Architecture & File Structure
 
+```text
 Project-2-E-Commerce-Sales-and-Profit-Analysis/
 │
 ├── data/
@@ -46,7 +47,8 @@ Project-2-E-Commerce-Sales-and-Profit-Analysis/
 ├── docs/
 │   └── business_requirements.md
 │
-└── README.md         
+└── README.md
+```
 
 
 
