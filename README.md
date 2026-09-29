@@ -36,18 +36,18 @@ A high-performance interactive business intelligence application engineered to e
 Project-2-E-Commerce-Sales-and-Profit-Analysis/
 │
 ├── data/
-│   └── ECOMM DATA.xlsx
+│   └── ECOMM DATA.xlsx                            # Raw e-commerce transactional dataset
 │
 ├── reports/
-│   └── E-Commerce Sales and Profit Analysis.pbix
+│   └── E-Commerce Sales and Profit Analysis.pbix     # Main Power BI dashboard application
 │
 ├── exports/
-│   └── Screenshot_page-0001.jpg
+│   └── Screenshot_page-0001.jpg                       # Dashboard preview export image
 │
 ├── docs/
-│   └── business_requirements.md
+│   └── business_requirements.md                      # KPI & reporting objective documentation
 │
-└── README.md
+└── README.md                                         # Complete project documentation
 ```
 
 
