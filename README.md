@@ -32,7 +32,10 @@ A high-performance interactive business intelligence application engineered to e
 📂 1. Repository Architecture & File Structure
 
 
-Project-2-E-Commerce Sales and Profit Analysis/
+Project-2-E-Commerce Sales and Profit Analysis
+
+/
+
 │
 ├── data/
 │   └── ECOMM DATA.xlsx                        # Raw e-commerce transactional dataset
