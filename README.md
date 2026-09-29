@@ -52,7 +52,18 @@ Project-2-E-Commerce-Sales-and-Profit-Analysis/
 └── README.md                                         # Complete project documentation
 ```
 
+2. Business Problem & Analytical Objective
 
+Modern e-commerce businesses generate massive transactional data across customers, products, categories, and geographic regions. However, without a centralized analytics platform, organizations struggle to identify:
+
+High-performing customers and products
+Regional sales concentration patterns
+Profit leakage across operational segments
+Seasonal sales fluctuations and profitability trends
+Fulfillment efficiency and order behavior dynamics
+To address these business intelligence challenges, this analytics platform was engineered as a centralized Power BI reporting solution capable of transforming raw transactional records into executive-level operational insights.
+
+The dashboard enables decision-makers to monitor revenue performance, profit margins, customer purchasing behavior, and regional growth opportunities through highly interactive visual exploration layers.
 
 
     
