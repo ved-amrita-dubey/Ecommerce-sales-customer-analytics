@@ -126,13 +126,133 @@ Dynamic DAX measures were engineered to support real-time analytical calculation
 | Profit % | Calculates net profitability efficiency |
 | Customer Count | Identifies active customer base |
 
+### Business Metrics Generated
+
+- Month-wise Sales Growth
+- Profit Percentage Trends
+- Segment-wise Profitability
+- Product Order Rankings
+- Customer Revenue Contribution
+- Regional Performance Analysis
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## 🔹 Phase 4: Executive Dashboard Visualization Layer
 
+The final reporting application was engineered using a clean executive-style Power BI interface optimized for quick business decision-making.
 
+The visual layout integrates:
 
+- KPI scorecards
+- Interactive maps
+- Trend analysis visuals
+- Customer performance tables
+- Regional drill-down filters
+- Product performance rankings
+- Segment profitability comparisons
+  
+The dashboard architecture enables dynamic filtering and real-time analytical exploration without disrupting visual consistency.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### 4. Dashboard Analytics & Business Intelligence Features
+
+## 🔹 Executive KPI Ribbon
+
+The dashboard highlights critical business metrics through centralized KPI cards:
+
+| KPI | Value |
+|---|---|
+| Clients | 795 |
+| Orders | 178.31K |
+| Sales | ₹126.43 Lakhs |
+| Profit | ₹15 Lakhs |
+| Profit % | 11.61% |
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🔹 Geographic Sales Intelligence
+
+# Business Objective
+
+Identify high-performing markets and regional revenue concentration zones.
+
+- Features Included
+- Country-wise sales mapping
+- Regional and state-level filtering
+- Interactive geographic drill-down analysis
+- Market performance comparisons
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🔹 Time-Series Revenue & Profitability Tracking
+
+# Business Objective
+
+Monitor seasonal revenue fluctuations and monthly profitability behavior.
+
+- Insights Generated
+- Month-wise sales performance
+- Profit trend tracking
+- Profit percentage movement analysis
+- Revenue growth comparisons
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🔹 Customer Intelligence & Revenue Contribution
+
+# Business Objective
+
+Identify high-value customers and analyze purchasing contribution patterns.
+
+- Features Included
+- Customer-wise sales contribution
+- Quantity purchased analysis
+- Individual customer profitability tracking
+- High-value customer identification
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🔹 Segment & Product Performance Analytics
+
+# Business Objective
+
+Evaluate profitability across customer segments and product categories.
+
+- Insights Generated
+- Consumer vs Corporate vs Home Office analysis
+- Product-wise order rankings
+- Category-level filtering
+- Segment profitability breakdown
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 5. Business Insights & Strategic Findings
+
+- The dashboard reveals strong revenue concentration across selected customer segments, indicating opportunities for focused retention strategies.
+- Regional sales mapping highlights geographic zones with consistently higher purchasing activity and operational performance.
+- Product order rankings identify top-performing product categories driving the majority of transaction volumes.
+- Monthly sales trend tracking surfaces seasonal spikes and profit fluctuations useful for inventory planning and campaign optimization.
+- Customer contribution analysis helps isolate high-value clients responsible for a significant share of revenue generation.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 6. Core Technical Skills Demonstrated
+
+- Business Intelligence Engineering (Interactive Dashboard Development & KPI Reporting)
+- Power BI Analytics (DAX Calculations, Visual Storytelling, Dynamic Filtering)
+- Power Query ETL Pipelines (Data Cleaning, Formatting & Transformation)
+- Business Performance Analytics (Sales, Profitability & Customer Analysis)
+- Geographic Intelligence Reporting (Regional Trend & Map-Based Analytics)
+- Executive Dashboard Design (Interactive Reporting & Decision-Support Systems)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Author
+
+## Ved Amrita Dubey
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
