@@ -83,7 +83,50 @@ The project pipeline executes across four integrated analytical stages to conver
 
 The platform utilizes transactional sales data stored inside the source workbook:
 
+```text
 ECOMM DATA.xlsx
+```
+The dataset contains:
+
+- Sales transactions
+- Product categories
+- Customer-level information
+- Regional hierarchy (Country, State, City)
+- Order quantity metrics
+- Segment-wise profitability records
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🔹 Phase 2: Power Query ETL & Data Transformation
+
+The raw Excel dataset is processed using Power Query transformation pipelines to ensure clean analytical modeling.
+
+- ETL Operations Performed
+- Null value handling
+- Data type standardization
+- Column formatting and renaming
+- Sales and profit field sanitization
+- Regional hierarchy structuring
+- Date formatting optimization
+
+The transformed dataset is then loaded into the Power BI data model for downstream analytics execution.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🔹 Phase 3: KPI Engineering & DAX Modeling
+
+Dynamic DAX measures were engineered to support real-time analytical calculations and executive KPI tracking.
+
+### Core KPI Metrics
+
+| KPI Measures | Business Purpose |
+|---|---|
+| Total Sales | Tracks complete revenue generation |
+| Total Orders | Measures operational order volume |
+| Total Profit | Evaluates profitability performance |
+| Profit % | Calculates net profitability efficiency |
+| Customer Count | Identifies active customer base |
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
