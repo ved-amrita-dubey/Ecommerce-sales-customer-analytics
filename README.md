@@ -250,7 +250,7 @@ Evaluate profitability across customer segments and product categories.
 
 ### Author
 
-## Ved Amrita Dubey
+# Ved Amrita Dubey
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
