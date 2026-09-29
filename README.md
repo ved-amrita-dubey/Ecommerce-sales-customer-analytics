@@ -68,4 +68,41 @@ To address these business intelligence challenges, this analytics platform was e
 The dashboard enables decision-makers to monitor revenue performance, profit margins, customer purchasing behavior, and regional growth opportunities through highly interactive visual exploration layers.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 3. Data Engineering & Analytics Workflow
+
+The project pipeline executes across four integrated analytical stages to convert raw e-commerce transaction records into optimized business intelligence outputs:
+
+```text
+[Phase 1: Data Extraction] ➔ [Phase 2: ETL Transformation] ➔ [Phase 3: KPI Modeling] ➔ [Phase 4: Interactive Dashboarding]
+(Excel Data Source)          (Power Query Cleansing)         (DAX Measures & Metrics)   (Executive Visualization Layer)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
