@@ -32,6 +32,8 @@ A high-performance interactive business intelligence application engineered to e
 
 ## 📁 1. Repository Architecture & File Structure
 
+To maintain clean project organization and enterprise-level analytics documentation standards, all reporting assets, source datasets, and dashboard files are distributed across the following structured repository hierarchy:
+
 ```text
 Project-2-E-Commerce-Sales-and-Profit-Analysis/
 │
