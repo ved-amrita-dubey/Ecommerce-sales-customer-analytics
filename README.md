@@ -52,7 +52,7 @@ Project-2-E-Commerce-Sales-and-Profit-Analysis/
 └── README.md                                         # Complete project documentation
 ```
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-2. Business Problem & Analytical Objective
+2.  # Business Problem & Analytical Objective
 
 Modern e-commerce businesses generate massive transactional data across customers, products, categories, and geographic regions. However, without a centralized analytics platform, organizations struggle to identify:
 
